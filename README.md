@@ -7,7 +7,7 @@ Interactive visualizations of education levels across South Bay Area ZIP codes u
 
 ## 🗺️ Try It Now!
 
-**[View Interactive Map](output/south_bay_education_map_interactive.html)** - Download and open this file in your browser to explore the data with an interactive choropleth map and dropdown menu for different education metrics.
+**[View Interactive Map](https://htmlpreview.github.io/?https://github.com/ritsinha/education_by_area/blob/main/output/south_bay_education_map_interactive.html)** - Explore the data with an interactive choropleth map and dropdown menu for different education metrics.
 
 ## 📊 Overview
 
