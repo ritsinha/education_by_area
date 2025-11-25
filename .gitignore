@@ -31,6 +31,9 @@ zcta_temp.zip
 # Generated HTML outputs (can be regenerated)
 output/*.html
 
+# Keep the main interactive map for easy access
+!output/south_bay_education_map_interactive.html
+
 # Keep example CSV and output directory structure
 !south_bay_education.csv
 !output/.gitkeep

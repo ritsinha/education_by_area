@@ -5,6 +5,10 @@ Interactive visualizations of education levels across South Bay Area ZIP codes u
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+## 🗺️ Try It Now!
+
+**[View Interactive Map](output/south_bay_education_map_interactive.html)** - Download and open this file in your browser to explore the data with an interactive choropleth map and dropdown menu for different education metrics.
+
 ## 📊 Overview
 
 This project analyzes and visualizes educational attainment data for cities in the San Francisco Bay Area's South Bay region, including:
@@ -95,14 +99,15 @@ education_by_zip/
 ├── requirements.txt                 # Python dependencies
 ├── README.md                        # This file
 ├── .gitignore                       # Git ignore rules
-└── output/                          # Generated HTML visualizations (not in repo)
-    ├── education_dashboard.html
-    ├── education_by_zip.html
-    ├── education_by_city.html
-    ├── education_breakdown.html
-    ├── education_scatter.html
-    ├── south_bay_education_map_interactive.html
-    └── south_bay_education_map.html
+└── output/                          # Generated HTML visualizations
+    └── south_bay_education_map_interactive.html  # Main interactive map (included in repo)
+    # Other HTML files generated locally (not in repo):
+    # - education_dashboard.html
+    # - education_by_zip.html
+    # - education_by_city.html
+    # - education_breakdown.html
+    # - education_scatter.html
+    # - south_bay_education_map.html
 ```
 
 ## 📊 Data Sources
